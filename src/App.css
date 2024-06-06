@@ -1,0 +1,20 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+#main{
+  height: 100%;
+  width:100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* #middle_side{
+  width:60%;
+  background-color: rgb(95, 127, 127);
+  color: rgb(9, 9, 9);
+} */
+#right_side{
+  width:35%;
+}
