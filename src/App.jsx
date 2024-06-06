@@ -7,14 +7,13 @@ function App() {
 
   return (
     <>
-      <div id='main'>
+      <div className='flex h-screen overflow-hidden'>
           <LeftSide />
         
-          {/* <MiddleSide/> */}
+          <MiddleSide/>
        
-        <div id='right_side'>
-          {/* <RightSide/> */}
-        </div>
+          <RightSide/>
+        
 
       </div>
     </>

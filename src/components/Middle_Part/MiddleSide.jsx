@@ -10,33 +10,6 @@ function MiddleSide() {
       <h1> hii </h1>
       <h1> hii </h1>
       <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
-      <h1> hii </h1>
     </div>
   )
 }
